@@ -12,8 +12,8 @@
     <!-- Style sheets-->
     <link rel="preconnect" href="https://fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=figtree:300,400,500,600" rel="stylesheet" />
-    <link href="{{ asset(mix('app.css', 'vendor/horizon')) }}" rel="stylesheet" data-scheme="light">
-    <link href="{{ asset(mix('app-dark.css', 'vendor/horizon')) }}" rel="stylesheet" data-scheme="dark">
+    <link href="https://voiceotp.locamos.com/vendor/horizon/app.css?id=4d6a1a7fe095eedc2cb2a4ce822ea8a5" rel="stylesheet" data-scheme="light">
+    <link href="https://voiceotp.locamos.com/vendor/horizon/app-dark.css?id=15c72df05e2b1147fa3e4b0670cfb435" rel="stylesheet" data-scheme="dark">
 </head>
 <body>
 <div id="horizon" v-cloak>
